@@ -14,3 +14,4 @@ for /f "tokens=2 delims=:" %%i in ('netsh wlan show profile name^="%ssid:"=%" ke
 ) >> netshkeys-out.txt
 
 exit /b
+
