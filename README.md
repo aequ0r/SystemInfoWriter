@@ -1,3 +1,3 @@
 **SystemInfoWriter**
 
-Hasn't undergone thourough testing. You have been warned.
+Hasn't undergone thourough testing (or development). You have been warned.
